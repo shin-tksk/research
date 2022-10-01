@@ -1,4 +1,4 @@
-# paper
+# Paper
 
 ## Music Transoformer
 https://arxiv.org/abs/1809.04281
