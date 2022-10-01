@@ -1,5 +1,8 @@
 # Paper
 
+## Symbolic Music Genre Transfer with CycleGAN
+https://arxiv.org/abs/1809.07575
+
 ## Music Transoformer
 https://arxiv.org/abs/1809.04281
 
