@@ -5,7 +5,7 @@ paper:https://arxiv.org/abs/1809.07575
 
 github:
 
-## Music Transoformer
+## Music Transformer
 paper:https://arxiv.org/abs/1809.04281
 
 github:https://github.com/jason9693/MusicTransformer-tensorflow2.0
