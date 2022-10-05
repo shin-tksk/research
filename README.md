@@ -1,4 +1,4 @@
-# esearch
+# Research
 
 ## Symbolic Music Genre Transfer with CycleGAN
 paper : https://arxiv.org/abs/1809.07575
