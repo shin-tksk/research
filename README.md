@@ -14,3 +14,13 @@ github : https://github.com/jason9693/MusicTransformer-tensorflow2.0
 paper : https://arxiv.org/abs/2002.00212
 
 github : https://github.com/YatingMusic/remi
+
+## Music BERT
+paper : https://arxiv.org/abs/2106.05630
+
+github : https://github.com/microsoft/muzic/tree/main/musicbert
+
+## Midi BERT
+paper : https://arxiv.org/abs/2107.05223
+
+github : https://github.com/wazenmai/MIDI-BERT
