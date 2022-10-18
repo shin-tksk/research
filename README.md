@@ -3,7 +3,7 @@
 ## Symbolic Music Genre Transfer with CycleGAN
 paper : https://arxiv.org/abs/1809.07575
 
-github:
+github:https://github.com/sumuzhao/CycleGAN-Music-Style-Transfer
 
 ## Music Transformer
 paper : https://arxiv.org/abs/1809.04281
