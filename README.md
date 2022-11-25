@@ -26,6 +26,6 @@ paper : https://arxiv.org/abs/2107.05223
 github : https://github.com/wazenmai/MIDI-BERT
 
 ## MuseMorphose
-paper : https://arxiv.org/abs/2002.00212
+paper : https://arxiv.org/abs/2105.04090
 
 github : 
