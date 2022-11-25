@@ -24,3 +24,8 @@ github : https://github.com/microsoft/muzic/tree/main/musicbert
 paper : https://arxiv.org/abs/2107.05223
 
 github : https://github.com/wazenmai/MIDI-BERT
+
+## MuseMorphose
+paper : https://arxiv.org/abs/2002.00212
+
+github : 
