@@ -28,4 +28,4 @@ github : https://github.com/wazenmai/MIDI-BERT
 ## MuseMorphose
 paper : https://arxiv.org/abs/2105.04090
 
-github : 
+github : https://github.com/YatingMusic/MuseMorphose
