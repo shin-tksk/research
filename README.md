@@ -42,7 +42,7 @@ paper : https://arxiv.org/abs/2212.14034
 
 github : https://github.com/JonasGeiping/cramming
 
-## RL
+## 強化学習のお勉強
 https://qiita.com/shionhonda/items/ec05aade07b5bea78081#actor-critic%E7%B3%BB
        
 
