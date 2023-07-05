@@ -43,6 +43,8 @@ paper : https://arxiv.org/abs/2212.14034
 github : https://github.com/JonasGeiping/cramming
 
 ## 強化学習のお勉強
-https://qiita.com/shionhonda/items/ec05aade07b5bea78081#actor-critic%E7%B3%BB
-       
+https://qiita.com/shionhonda/items/ec05aade07b5bea78081#actor-critic%E7%B3%BB  
+actor-critic  
+       pytorch : https://www.dskomei.com/entry/2022/03/13/114756 
+       tensorflow : https://tensorflow.classcat.com/2022/07/27/keras-2-examples-rl-actor-critic-cartpole/
 
