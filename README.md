@@ -53,3 +53,9 @@ paper : https://arxiv.org/abs/1904.10509
 
 github : https://github.com/openai/sparse_attention
 
+## Instruct GPT
+paper : https://arxiv.org/abs/2203.02155
+
+github : https://github.com/openai/following-instructions-human-feedback
+
+
