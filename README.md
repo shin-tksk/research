@@ -48,3 +48,8 @@ https://qiita.com/shionhonda/items/ec05aade07b5bea78081#actor-critic%E7%B3%BB
 pytorch : https://www.dskomei.com/entry/2022/03/13/114756  
 tensorflow : https://tensorflow.classcat.com/2022/07/27/keras-2-examples-rl-actor-critic-cartpole/
 
+## Sparse Transformer
+paper : https://arxiv.org/abs/1904.10509
+
+github : https://github.com/openai/sparse_attention
+
