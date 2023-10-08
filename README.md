@@ -32,7 +32,7 @@ github : https://github.com/YatingMusic/MuseMorphose
 
 ## TransGAN
 paper : https://arxiv.org/abs/2102.07074  
-github : https://github.com/VITA-Group/TransGAN
+github : https://github.com/VITA-Group/TransGAN  
 github : https://github.com/asarigun/TransGAN ← こっちの方がわかりやすいかも
 
 ## Cramming BERT
